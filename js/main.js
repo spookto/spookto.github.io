@@ -17,7 +17,7 @@ function loadGallery(imgCount)
 
         gallery.appendChild(img);
 
-        var source = "https://raw.githubusercontent.com/spookto/spookto.github.io/main/gallery/";
+        var source = "spookto.github.io/gallery/";
 
         var altS = source+i;
         img.alt = altS;
